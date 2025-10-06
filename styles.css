@@ -8,6 +8,10 @@ body{
 li{
 	list-style-type:none;
 }
+a {
+  text-decoration-line: none;
+  color: black;
+}
 #container{
 	border:2px solid black;
 	border-radius:7px;
