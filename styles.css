@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+h1,h2{
+	text-align:center;
+}
+body{
+	background-color:rgb(204, 204, 204);
+}
+li{
+	list-style-type:none;
+}
+#container{
+	border:2px solid black;
+	border-radius:7px;
+	padding:10px;
+	background-color:white;
+	
+}
+.player_one,.player_two{
+	width:100%;
+	background-color: rgb(255, 255, 255);
+	padding:2px; 
+	border-radius:0px;
+
+	
+}
